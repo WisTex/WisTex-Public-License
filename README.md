@@ -19,7 +19,7 @@ Third party libraries shall not be considered part of this software, and therefo
 
 If the script has a separate templating, theme, plugin, addon, extension, hook, or similar system that allows modifications of the output of the script without modifying the core code, components that are part of such a system (and do not modify the core code) are considered separate works and may be released under this or other licenses, on the condition that nothing in that license may modify or interfere with the license for the core code.
 
-If you modify the core script to work with a component that is considered a separate work, such modifications should be made in such a way where the software will continue to operate without that component. However, if a component is necessary for the operation of the core script, it must be licensed under this license and shared. 
+If you modify the core script to work with a component that is considered a separate work, such modifications should be made in such a way where the software will continue to operate without that component. However, if a component is necessary for the operation of the core script, it must be licensed under this license and shared with the core script. 
 
 If a website combines multiple scripts on a website, simply linking from one script to another or using a common theme or template shall not constitute "one work" and each work may be licensed separately. The act of using an API or accessing a common database by another work shall not constitute combining scripts.
 
