@@ -39,6 +39,18 @@ If this script's core code is combined with other scripts in such a manner to cr
 
 If different licenses apply to different parts of the combined script, you must disclose this to your end users and to people who obtain the source code. If the scripts are combined in such a way where it is unclear which license applies to a particular piece of code, the entire "new work" must be available for license under this license.
 
+### Resolution of Incompatible Licenses
+
+Combining scripts with another script with an incompatible license does not release your obligations under this license.
+
+If you combine scripts that have different licenses and both licenses assert authority of the combined work, any code you personally create must be released under this license, and if required by that other license, be released under that license too.
+
+1. Code from this script continues to be licensed under this license, even when combined with another work.
+2. Code from the other script continues to be license under their license.
+3. Changes that you or your team make to the combined code is considered your work, and is subject to both licenses.
+
+If it is not possible to license the resulting combined script with this license due to provisions in the other license, an alternative is to submit every change you or your team personally make to the maintainers of this script and/or to the public so that it may be incorporated in this script under this license. 
+
 ### Disclaimer
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
