@@ -25,6 +25,8 @@ If a website combines multiple scripts on a website, simply linking from one scr
 
 Any changes to this script are subject to this license and shall be licensed under this license.
 
-If this script's core code is combined with other scripts in such a manner to create a "new work," and the other scripts already have different licenses, code provided from this script will be considered a seperate work for purposes of licensing and still be subject to this license. Specifically, if the other license has additional restrictions, those restrictions do not apply to the code provided by this script. If different licenses apply to different parts of the combined script, you must disclose this to your end users and to people who obtain the source code.
+If this script's core code is combined with other scripts in such a manner to create a "new work," and the other scripts already have different licenses, code provided from this script will be considered a seperate work for purposes of licensing and still be subject to this license. Specifically, if the other license has additional restrictions, those restrictions do not apply to the code provided by this script. 
+
+If different licenses apply to different parts of the combined script, you must disclose this to your end users and to people who obtain the source code. If the scripts are combined in such a way where it is unclear which license applies to a particular piece of code, the entire "new work" must be available for license under this license.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
