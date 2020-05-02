@@ -53,7 +53,7 @@ If the scripts are combined in such a way where it is unclear which license appl
 
 ### Combined Works with Incompatible Licenses
 
-An incompatible license is a license that attempts to assert legal control over this script or otherwise adds additional restrictions on this use of this script.
+An incompatible license is a license that attempts to assert legal control over this script or otherwise adds additional restrictions on this use or distribution of this script.
 
 Combining this script with another script with an incompatible license does not release your obligations under this license.
 
