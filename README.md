@@ -17,6 +17,12 @@ The above copyright notice and this permission notice shall be included in all c
 
 If you make changes to the core code or documentation, you shall share and make the source code available to others under this license, either by providing a download link or linking to a code repository or including it with the software or another common method of distributing source code. Any changes you make and the resulting source code shall be made freely available to the maintainers of the software and to the public without charge.
 
+### Licensing of Copies and Deriviative Works
+
+Any changes to this script are subject to this license and shall be licensed under this license. Any derivative works shall be licensed under this license.
+
+You cannot re-release this work under a more restrictive license, however, it may be re-released under a new version of the WisTex Public License. Changing licenses does not affect the license of code released before the change.
+
 ### Code Covered by this License
 
 Third party libraries shall not be considered part of this software, and therefore not subject to this license, as long as they are separated and identified as sperate libraries. The licenses of these libraries may not change or interfere with this license.
@@ -26,12 +32,6 @@ If the script has a separate templating, theme, plugin, addon, extension, hook, 
 If you modify the core script to work with a component that is considered a separate work, such modifications should be made in such a way where the software will continue to operate without that component. However, if a component is necessary for the operation of the core script, it must be licensed under this license and shared with the core script. 
 
 If a website combines multiple scripts on a website, simply linking from one script to another or using a common theme or template shall not constitute "one work" and each work may be licensed separately. The act of using an API or accessing a common database by another work shall not constitute combining scripts.
-
-### Licensing of Copies and Deriviative Works
-
-Any changes to this script are subject to this license and shall be licensed under this license.
-
-You cannot re-release this work under a more restrictive license, however, it may be re-released under a new version of the WisTex Public License. Changing licenses does not affect the license of code released before the change.
 
 ### Combined works with Multiple Licenses
 
