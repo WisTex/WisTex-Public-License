@@ -3,7 +3,7 @@ An open-source license somewhere between MIT and GPL.
 
 One of the biggest challenges with licensing open source software is that some licenses, like the MIT license, are too permissive, while some licenses, such as the GPL are too restrictive. This license is designed to clarify terms of use while maintaining open source freedoms.
 
-One key feature is that it attempts to deal with incompatible licenses, and prohibits additional restrictions from being applied the code, and provides a workaround when combined with a script with an incompatible license.
+One key feature is that it attempts to deal with incompatible licenses, and prohibits additional restrictions from being applied the code. Additionally, it provides a workaround when combined with a script with an incompatible license.
 
 ## The License - Version 0.1
 
