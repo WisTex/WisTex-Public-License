@@ -31,7 +31,7 @@ You cannot re-release this work under a more restrictive license, however, it ma
 
 Any code that you or your team personally create still belongs to you and you may use code that you personally created in any way you see fit, including releasing your code under a different license or using your code in other scripts.
 
-When combined with this script, you must release your modifications with this script under this license, but nothing prevents you from using code you personally created in other projects or scripts.
+When combined with this script, you must release your modifications with this script under this license, but nothing prevents you from using code you personally created in other projects or scripts under any license or conditions you desire.
 
 ### Code Not Covered by this License
 
