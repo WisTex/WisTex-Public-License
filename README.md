@@ -37,7 +37,7 @@ When combined with this script, you must release your modifications with this sc
 
 Third party libraries shall not be considered part of this software, and therefore not subject to this license, as long as they are separated and identified as sperate libraries. The licenses of these libraries may not change or interfere with this license.
 
-If the script has a separate templating, theme, plugin, addon, extension, hook, or similar system that allows modifications of the output of the script without modifying the core code, components that are part of such a system (and do not modify the core code) are considered separate works and may be released under this or other licenses, on the condition that nothing in that license may modify or interfere with the license for the core code.
+If the script has a separate templating, theme, plugin, addon, extension, hook, or similar system that allows modifications of the output of the script without modifying the core code, components (plugins, themes, etc.) that interact with such a system are considered separate works and may be released under this or other licenses, on the condition that nothing in that license may modify or interfere with the license for the core code, and the component (plugin, theme, etc.) is a seperate piece of code that does not modify the core code.
 
 If you modify the core script to work with a component that is considered a separate work, such modifications should be made in such a way where the software will continue to operate without that component. However, if a component is necessary for the operation of the core script, it must be licensed under this license and shared with the core script. 
 
