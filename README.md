@@ -53,7 +53,7 @@ If the scripts are combined in such a way where it is unclear which license appl
 
 An incompatible license is a license that attempts to assert legal control over this script or otherwise adds additional restrictions on this use of this script.
 
-Combining scripts with another script with an incompatible license does not release your obligations under this license.
+Combining this script with another script with an incompatible license does not release your obligations under this license.
 
 If you combine scripts that have different licenses and both licenses assert authority of the combined work, any code you personally create must be released under this license, and if required by that other license, be released under that license too.
 
