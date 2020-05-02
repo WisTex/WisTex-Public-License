@@ -37,7 +37,9 @@ If a website combines multiple scripts on a website, simply linking from one scr
 
 If this script's core code is combined with other scripts in such a manner to create a "new work," and the other scripts already have different licenses, code provided from this script will be considered a seperate work for purposes of licensing and still be subject to this license. Specifically, if the other license has additional restrictions, those restrictions do not apply to the code provided by this script. 
 
-If different licenses apply to different parts of the combined script, you must disclose this to your end users and to people who obtain the source code. If the scripts are combined in such a way where it is unclear which license applies to a particular piece of code, the entire "new work" must be available for license under this license.
+If different licenses apply to different parts of the combined script, you must disclose this to your end users and to people who obtain the source code. 
+
+If the scripts are combined in such a way where it is unclear which license applies to a particular piece of code, the entire "new work" must be available for license under this license.
 
 ### Resolution of Incompatible Licenses
 
