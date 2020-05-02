@@ -25,6 +25,12 @@ Any changes to this script are subject to this license and shall be licensed und
 
 You cannot re-release this work under a more restrictive license, however, it may be re-released under a new version of the WisTex Public License. Changing licenses does not affect the license of code released before the change.
 
+### Your Contributions
+
+Any code that you or your team personally creates still belongs to you and you may use code that you personally created in any way you see fit, including releasing your code under a different license or using your code in other scripts.
+
+When combined with this script, you must release your modifications with this script under this license, but nothing prevents you from using code you personally created in other projects or script.
+
 ### Code Not Covered by this License
 
 Third party libraries shall not be considered part of this software, and therefore not subject to this license, as long as they are separated and identified as sperate libraries. The licenses of these libraries may not change or interfere with this license.
