@@ -47,7 +47,7 @@ If this script's core code is combined with other scripts in such a manner to cr
 
 If different licenses apply to different parts of the combined script, you must disclose this to your end users and to people who obtain the source code. 
 
-If the scripts are combined in such a way where it is unclear which license applies to a particular piece of code, the entire "new work" must be available for license under this license.
+If the scripts are combined in such a way where it is unclear which license applies to a particular piece of code, the entire "new work" must be available for license under this license, except in cases of incompatible licenses.
 
 ### Combined Works with Incompatible Licenses
 
