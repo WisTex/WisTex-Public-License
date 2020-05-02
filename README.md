@@ -39,7 +39,7 @@ If the script has a separate templating, theme, plugin, addon, extension, hook, 
 
 If you modify the core script to work with a component that is considered a separate work, such modifications should be made in such a way where the software will continue to operate without that component. However, if a component is necessary for the operation of the core script, it must be licensed under this license and shared with the core script. 
 
-If a website combines multiple scripts on a website, simply linking from one script to another or using a common theme or template shall not constitute "one work" and each work may be licensed separately. The act of using an API or accessing a common database by another work shall not constitute combining scripts.
+If a website combines multiple scripts on a website, simply linking from one script to another or using a common theme or template shall not constitute "one work" and each work may be licensed separately. The act of using an API or accessing a common database or datastore by another work shall not constitute combining scripts.
 
 ### Combined Works with Multiple Licenses
 
