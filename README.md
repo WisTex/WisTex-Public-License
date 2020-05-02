@@ -55,6 +55,8 @@ If you combine scripts that have different licenses and both licenses assert aut
 
 If it is not possible to license the resulting combined script with this license due to provisions in the other license, an alternative is to submit every change you or your team personally make to the maintainers of this script and/or to the public so that it may be incorporated in this script under this license. 
 
+Code that is licensed under a different license does not have to be released under this license, but any changes you or your team makes must be released under this license.
+
 ### Disclaimer
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
